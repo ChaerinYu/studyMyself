@@ -1,3 +1,6 @@
+//https://www.acmicpc.net/problem/1003
+//When calling fibonacci (N), write a program to calculate the number of times of 0 and 1 that appear.
+
 #include <iostream>
 int cnt0 = 0, cnt1 = 0;
 int fibonacci(int n) {
