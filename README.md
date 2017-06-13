@@ -1,0 +1,2 @@
+# studyMyself
+Coding practice 
